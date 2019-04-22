@@ -27,12 +27,12 @@
       "src"
     ]
   },
-  "homepage": "https://github.com/modojs/wxapp-ui",
+  "homepage": "https://github.com/zexincai/mini-ui",
   "repository": {
     "type": "git",
-    "url": "https://github.com/modojs/wxapp-ui/tree/master/packages/navigationBar"
+    "url": "https://github.com/zexincai/mini-ui/tree/master/packages/navigationBar"
   },
-  "author": "akiq",
+  "author": "zexincai",
   "license": "MIT",
   "devDependencies": {
     "autoprefixer": "^9.0.1",
